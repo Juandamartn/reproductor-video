@@ -1,7 +1,9 @@
 # Reproductor de video
 
 Tomando de base el reproductor de audio HTML5 realizado en clase, desarrollar un reproductor de video HTML5 con una interfaz similar a la mostrada en la siguiente figura:
+
 [Imgur](https://i.imgur.com/l00RHiB.png)
+
 Considere lo siguiente:
 - La información de los videos debe leerse de un arreglo definido dentro de la propia página.
 - Al iniciar debe de cargarse el primer video en el reproductor pero sin reproducirse.
